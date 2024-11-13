@@ -4,12 +4,12 @@ This repository showcases a ComfyUI workflow that can take any image as input an
 ## Workflow
 Here is an overview of the workflow:
 
-![Workflow Image](images/Screenshot from 2024-11-13 08-29-25.png)
+![Workflow Image](images/workflow.png)
 
 ### Sample Output
 Below are sample output images:
 
 <div style="display: flex;">
-  <img src="images/buy-side-table-tube-end-table-linear-or-bedside-table-for-bedroom-by-table.png" alt="Sample Output 1" width="45%" style="margin-right: 10px;">
-  <img src="images/Table_607_mod1_0.png" alt="Sample Output 2" width="45%">
+  <img src="images/before.png" alt="Sample Output 1" width="45%" style="margin-right: 10px;">
+  <img src="images/after.png" alt="Sample Output 2" width="45%">
 </div>
